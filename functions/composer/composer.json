@@ -1,0 +1,7 @@
+{
+    "require": {
+        "tumblr/tumblr": "~0.1",
+        "mailchimp/mailchimp" : "2.0.*",
+        "campaignmonitor/createsend-php" : "4.0.*"
+    }
+}
